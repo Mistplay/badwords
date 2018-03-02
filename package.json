@@ -20,7 +20,7 @@
     "filter"
   ],
   "dependencies": {
-    "badwords-list": "^1.0.0"
+    "badwords-list": "git+https://github.com/MinoGames/badwords-list.git#mino"
   },
   "devDependencies": {
     "mocha": "1.14.0",
