@@ -21,7 +21,7 @@
     "filter"
   ],
   "dependencies": {
-    "badwords-list": "^1.0.0"
+    "badwords-list": "git+https://github.com/Mistplay/badwords-list#mistplay"
   },
   "devDependencies": {
     "better-assert": "1.0.0",
