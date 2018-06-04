@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Mistplay/badwords"
+    "url": "git://github.com/Mistplay/badwords.git#mistplay"
   },
   "keywords": [
     "curse",
@@ -20,7 +20,7 @@
     "filter"
   ],
   "dependencies": {
-    "badwords-list": "git+https://github.com/Mistplay/badwords-list"
+    "badwords-list": "git+https://github.com/Mistplay/badwords-list.git#mistplay"
   },
   "devDependencies": {
     "mocha": "1.14.0",
